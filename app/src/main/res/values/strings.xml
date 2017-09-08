@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Group List Pages Test</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="messages">
+        <item>Group Leader 1 Message</item>
+        <item>Group Leader 2 Message</item>
+        <item>Group Leader 3 Message</item>
+        <item>Group Leader 4 Message</item>
+
+    </string-array>
+</resources>
